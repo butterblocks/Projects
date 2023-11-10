@@ -1,0 +1,33 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label="alcohol <= 10.85\nsquared_error = 0.784\nsamples = 3673\nvalue = 5.878", fillcolor="#eda673"] ;
+1 [label="volatile acidity <= 0.252\nsquared_error = 0.589\nsamples = 2312\nvalue = 5.6", fillcolor="#f0b489"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="volatile acidity <= 0.207\nsquared_error = 0.564\nsamples = 1104\nvalue = 5.862", fillcolor="#eda774"] ;
+1 -> 2 ;
+3 [label="squared_error = 0.62\nsamples = 543\nvalue = 6.028", fillcolor="#eb9e67"] ;
+2 -> 3 ;
+4 [label="squared_error = 0.459\nsamples = 561\nvalue = 5.702", fillcolor="#eeaf81"] ;
+2 -> 4 ;
+5 [label="free sulfur dioxide <= 17.5\nsquared_error = 0.491\nsamples = 1208\nvalue = 5.361", fillcolor="#f2c09c"] ;
+1 -> 5 ;
+6 [label="squared_error = 0.447\nsamples = 181\nvalue = 4.994", fillcolor="#f6d3b9"] ;
+5 -> 6 ;
+7 [label="squared_error = 0.47\nsamples = 1027\nvalue = 5.426", fillcolor="#f1bd97"] ;
+5 -> 7 ;
+8 [label="free sulfur dioxide <= 11.5\nsquared_error = 0.764\nsamples = 1361\nvalue = 6.35", fillcolor="#e88e4d"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="citric acid <= 0.2\nsquared_error = 1.151\nsamples = 91\nvalue = 5.484", fillcolor="#f1ba92"] ;
+8 -> 9 ;
+10 [label="squared_error = 0.109\nsamples = 8\nvalue = 4.125", fillcolor="#ffffff"] ;
+9 -> 10 ;
+11 [label="squared_error = 1.056\nsamples = 83\nvalue = 5.614", fillcolor="#efb388"] ;
+9 -> 11 ;
+12 [label="alcohol <= 11.675\nsquared_error = 0.678\nsamples = 1270\nvalue = 6.412", fillcolor="#e78b48"] ;
+8 -> 12 ;
+13 [label="squared_error = 0.687\nsamples = 593\nvalue = 6.196", fillcolor="#e99659"] ;
+12 -> 13 ;
+14 [label="squared_error = 0.594\nsamples = 677\nvalue = 6.601", fillcolor="#e58139"] ;
+12 -> 14 ;
+}

@@ -1,0 +1,1 @@
+This project is about finding the optimal amount of pianos to buy and deliver based on a fictional piano store.

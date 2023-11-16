@@ -1,0 +1,1 @@
+The objective of this project is to see if there is any correlation with COVID-19 vaccination rates and a level of wealthiness. We determined wealth using the types of cars people owned by zipcode.

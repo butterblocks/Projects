@@ -1,0 +1,1120 @@
+Year [note 3],Sex,ICD-10 code,Individual cause of death description,<1,01-04,05-09,10-14,15-19,20-24,25-29,30-34,35-39,40-44,45-49,50-54,55-59,60-64,65-69,70-74,75-79,80-84,85-89,90+,All ages
+2021,Persons,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021,Persons,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,1,0,3,4,7,10,15,10,8,2,3,4,1,0,68
+2021,Persons,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021,Persons,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021,Persons,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021,Persons,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,4
+2021,Persons,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+2021,Persons,K70,Alcoholic liver disease,0,0,0,0,0,0,1,4,12,12,30,50,42,40,25,20,7,1,1,0,245
+2021,Persons,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,2,0,1,1,2,0,1,0,0,0,0,0,0,7
+2021,Persons,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,3
+2021,Persons,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021,Persons,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021,Persons,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,1,0,0,2,7,3,2,2,3,0,1,2,0,0,0,0,23
+2021,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021,Males,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021,Males,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,1,0,1,4,6,6,8,9,6,2,3,3,1,0,50
+2021,Males,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021,Males,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021,Males,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021,Males,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,3
+2021,Males,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+2021,Males,K70,Alcoholic liver disease,0,0,0,0,0,0,0,3,7,6,16,30,26,27,15,11,4,0,1,0,146
+2021,Males,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,2,0,1,1,2,0,1,0,0,0,0,0,0,7
+2021,Males,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,2
+2021,Males,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021,Males,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021,Males,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,1,0,0,1,5,2,2,1,2,0,1,2,0,0,0,0,17
+2021,Males,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021,Females,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021,Females,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,0,2,0,1,4,7,1,2,0,0,1,0,0,18
+2021,Females,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021,Females,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021,Females,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021,Females,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+2021,Females,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021,Females,K70,Alcoholic liver disease,0,0,0,0,0,0,1,1,5,6,14,20,16,13,10,9,3,1,0,0,99
+2021,Females,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021,Females,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+2021,Females,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021,Females,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021,Females,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,1,2,1,0,1,1,0,0,0,0,0,0,0,6
+2021,Females,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,Persons,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,Persons,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,1,2,3,9,9,15,9,7,6,4,2,0,2,69
+2020,Persons,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,Persons,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,Persons,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,Persons,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+2020,Persons,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,Persons,K70,Alcoholic liver disease,0,0,0,0,0,0,1,1,9,18,36,34,64,35,24,12,15,3,0,0,252
+2020,Persons,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,1,3,0,0,1,1,0,0,0,0,6
+2020,Persons,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,2
+2020,Persons,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,Persons,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,Persons,"X45, X65, Y15",External causes,0,0,0,0,0,0,0,0,1,3,3,4,2,2,2,3,1,0,0,0,21
+2020,Males,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,Males,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,1,2,3,6,8,9,6,7,4,3,2,0,2,53
+2020,Males,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,Males,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,Males,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,Males,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+2020,Males,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,Males,K70,Alcoholic liver disease,0,0,0,0,0,0,1,0,7,10,22,23,44,25,9,6,9,0,0,0,156
+2020,Males,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,0,0,0,0,4
+2020,Males,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,Males,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,Males,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,Males,"X45, X65, Y15",External causes,0,0,0,0,0,0,0,0,1,2,3,3,2,2,2,3,1,0,0,0,19
+2020,Females,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,Females,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,0,0,0,3,1,6,3,0,2,1,0,0,0,16
+2020,Females,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,Females,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,Females,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,Females,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,Females,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,Females,K70,Alcoholic liver disease,0,0,0,0,0,0,0,1,2,8,14,11,20,10,15,6,6,3,0,0,96
+2020,Females,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,2
+2020,Females,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,2
+2020,Females,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,Females,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,Females,"X45, X65, Y15",External causes,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,2
+2019,Persons,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,Persons,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,2,6,8,10,11,12,10,7,6,1,2,0,0,75
+2019,Persons,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,Persons,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,Persons,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,Persons,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,1,0,0,1,0,0,2,2,1,0,0,0,0,0,7
+2019,Persons,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,Persons,K70,Alcoholic liver disease,0,0,0,0,0,1,2,3,11,19,27,38,53,31,16,14,9,1,1,0,226
+2019,Persons,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,1,2,0,1,0,1,0,1,0,0,0,0,0,0,6
+2019,Persons,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+2019,Persons,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,Persons,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,Persons,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,1,0,3,4,2,2,2,6,0,1,0,0,0,0,21
+2019,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,Males,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,Males,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,2,3,5,6,8,6,10,7,4,1,1,0,0,53
+2019,Males,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,Males,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,Males,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,Males,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,1,0,0,1,0,0,2,2,1,0,0,0,0,0,7
+2019,Males,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,Males,K70,Alcoholic liver disease,0,0,0,0,0,0,0,1,7,12,15,24,30,17,13,7,5,0,0,0,131
+2019,Males,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,0,4
+2019,Males,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+2019,Males,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,Males,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,Males,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,1,0,2,4,2,1,0,4,0,0,0,0,0,0,14
+2019,Males,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,Females,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,Females,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,0,3,3,4,3,6,0,0,2,0,1,0,0,22
+2019,Females,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,Females,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,Females,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,Females,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,Females,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,Females,K70,Alcoholic liver disease,0,0,0,0,0,1,2,2,4,7,12,14,23,14,3,7,4,1,1,0,95
+2019,Females,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,2
+2019,Females,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,Females,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,Females,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,Females,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,1,0,0,1,2,2,0,1,0,0,0,0,7
+2019,Females,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,Persons,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,Persons,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,1,2,6,5,10,14,16,13,11,3,1,1,2,0,85
+2018,Persons,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,Persons,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,Persons,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,Persons,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1,0,0,0,0,0,5
+2018,Persons,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2
+2018,Persons,K70,Alcoholic liver disease,0,0,0,0,0,0,1,4,7,9,12,31,29,28,20,9,3,3,0,0,156
+2018,Persons,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,2,1,2,1,0,0,0,0,0,0,6
+2018,Persons,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+2018,Persons,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2018,Persons,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,Persons,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,1,1,0,1,2,6,5,9,1,1,0,0,0,0,0,27
+2018,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+2018,Males,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,Males,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,1,0,5,4,4,7,10,10,10,3,1,0,1,0,56
+2018,Males,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,Males,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,Males,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,Males,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,4
+2018,Males,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2
+2018,Males,K70,Alcoholic liver disease,0,0,0,0,0,0,1,0,5,5,10,26,21,18,12,9,1,3,0,0,111
+2018,Males,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,2,1,2,0,0,0,0,0,0,0,5
+2018,Males,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+2018,Males,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2018,Males,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,Males,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,1,1,4,2,6,1,1,0,0,0,0,0,16
+2018,Males,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,Females,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,Females,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,2,1,1,6,7,6,3,1,0,0,1,1,0,29
+2018,Females,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,Females,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,Females,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,Females,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+2018,Females,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,Females,K70,Alcoholic liver disease,0,0,0,0,0,0,0,4,2,4,2,5,8,10,8,0,2,0,0,0,45
+2018,Females,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+2018,Females,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,Females,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,Females,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,Females,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,1,1,0,0,1,2,3,3,0,0,0,0,0,0,0,11
+2018,Females,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+2017,Persons,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,Persons,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,1,4,0,10,7,14,12,11,6,4,1,0,0,70
+2017,Persons,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,Persons,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,Persons,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+2017,Persons,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,4
+2017,Persons,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,2
+2017,Persons,K70,Alcoholic liver disease,0,0,0,0,0,0,1,6,11,15,27,36,36,27,15,8,7,1,1,0,191
+2017,Persons,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,1,1,1,0,1,1,0,1,0,0,0,0,6
+2017,Persons,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+2017,Persons,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,Persons,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,Persons,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,1,0,4,6,6,3,0,0,1,0,0,0,0,21
+2017,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,1,0,1,0,2,1,1,0,1,0,0,0,0,7
+2017,Males,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,Males,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,1,2,0,9,3,11,9,9,3,3,1,0,0,51
+2017,Males,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,Males,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,Males,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+2017,Males,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,3
+2017,Males,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,2
+2017,Males,K70,Alcoholic liver disease,0,0,0,0,0,0,1,5,7,11,16,25,25,19,8,5,4,1,1,0,128
+2017,Males,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,1,0,0,0,0,5
+2017,Males,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+2017,Males,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,Males,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,Males,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,1,0,4,3,5,2,0,0,1,0,0,0,0,16
+2017,Males,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0,0,0,0,5
+2017,Females,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,Females,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,0,2,0,1,4,3,3,2,3,1,0,0,0,19
+2017,Females,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,Females,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,Females,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,Females,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+2017,Females,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,Females,K70,Alcoholic liver disease,0,0,0,0,0,0,0,1,4,4,11,11,11,8,7,3,3,0,0,0,63
+2017,Females,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+2017,Females,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,Females,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,Females,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,Females,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,3,1,1,0,0,0,0,0,0,0,5
+2017,Females,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2
+2016,Persons,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,Persons,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,1,1,1,1,10,7,14,4,4,4,1,1,1,1,51
+2016,Persons,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+2016,Persons,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,Persons,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,Persons,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2
+2016,Persons,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+2016,Persons,K70,Alcoholic liver disease,0,0,0,0,0,1,3,3,8,18,32,34,40,29,20,12,7,1,0,0,208
+2016,Persons,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,4
+2016,Persons,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,Persons,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,Persons,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,Persons,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,1,0,1,1,0,3,0,4,0,1,1,0,0,0,12
+2016,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,1,0,0,0,1,2,0,2,3,1,0,0,0,0,10
+2016,Males,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,Males,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,1,1,0,6,6,8,3,3,4,1,1,0,1,35
+2016,Males,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,Males,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,Males,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,Males,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2
+2016,Males,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+2016,Males,K70,Alcoholic liver disease,0,0,0,0,0,1,2,2,5,11,23,18,20,17,12,11,5,0,0,0,127
+2016,Males,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,3
+2016,Males,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,Males,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,Males,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,Males,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,1,0,1,0,0,2,0,2,0,0,1,0,0,0,7
+2016,Males,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,1,0,0,0,1,2,0,2,2,1,0,0,0,0,9
+2016,Females,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,Females,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,1,0,0,1,4,1,6,1,1,0,0,0,1,0,16
+2016,Females,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+2016,Females,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,Females,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,Females,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,Females,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,Females,K70,Alcoholic liver disease,0,0,0,0,0,0,1,1,3,7,9,16,20,12,8,1,2,1,0,0,81
+2016,Females,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+2016,Females,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,Females,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,Females,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,Females,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,1,0,0,0,0,5
+2016,Females,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+2015,Persons,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,Persons,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,0,3,4,3,7,12,6,6,1,3,0,0,0,45
+2015,Persons,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+2015,Persons,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,Persons,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,Persons,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,2
+2015,Persons,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+2015,Persons,K70,Alcoholic liver disease,0,0,0,0,0,0,2,4,6,21,38,44,25,28,19,9,4,2,1,0,203
+2015,Persons,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+2015,Persons,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,Persons,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,Persons,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,Persons,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,1,0,0,1,7,2,7,4,3,3,0,0,0,0,0,28
+2015,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,Males,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,Males,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,0,2,3,2,3,7,1,5,1,3,0,0,0,27
+2015,Males,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+2015,Males,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,Males,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,Males,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+2015,Males,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+2015,Males,K70,Alcoholic liver disease,0,0,0,0,0,0,0,4,4,12,24,31,17,22,9,3,3,2,1,0,132
+2015,Males,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+2015,Males,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,Males,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,Males,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,Males,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,1,0,0,1,5,1,6,2,2,3,0,0,0,0,0,21
+2015,Males,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,Females,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,Females,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,0,1,1,1,4,5,5,1,0,0,0,0,0,18
+2015,Females,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,Females,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,Females,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,Females,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+2015,Females,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,Females,K70,Alcoholic liver disease,0,0,0,0,0,0,2,0,2,9,14,13,8,6,10,6,1,0,0,0,71
+2015,Females,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,Females,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,Females,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,Females,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,Females,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,2,1,1,2,1,0,0,0,0,0,0,7
+2015,Females,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,Persons,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,Persons,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,1,0,0,2,4,5,2,5,2,2,0,3,1,0,27
+2014,Persons,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,Persons,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,Persons,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,Persons,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+2014,Persons,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2
+2014,Persons,K70,Alcoholic liver disease,0,0,0,0,0,0,1,0,8,9,25,30,32,19,16,5,3,2,0,0,150
+2014,Persons,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,3
+2014,Persons,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,Persons,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,Persons,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,Persons,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,1,1,4,3,3,7,9,4,3,1,0,0,0,0,36
+2014,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,Males,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,Males,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,0,0,2,3,4,1,5,1,2,0,1,0,0,19
+2014,Males,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,Males,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,Males,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,Males,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+2014,Males,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+2014,Males,K70,Alcoholic liver disease,0,0,0,0,0,0,0,0,5,6,16,21,22,13,10,4,2,2,0,0,101
+2014,Males,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,3
+2014,Males,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,Males,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,Males,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,Males,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,1,1,4,3,3,7,6,1,3,1,0,0,0,0,30
+2014,Males,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,Females,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,Females,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,1,0,0,0,1,1,1,0,1,0,0,2,1,0,8
+2014,Females,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,Females,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,Females,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,Females,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,Females,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+2014,Females,K70,Alcoholic liver disease,0,0,0,0,0,0,1,0,3,3,9,9,10,6,6,1,1,0,0,0,49
+2014,Females,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,Females,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,Females,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,Females,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,Females,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,6
+2014,Females,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,Persons,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,Persons,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,0,0,2,6,10,6,4,4,0,1,0,0,0,33
+2013,Persons,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,Persons,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,Persons,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,Persons,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,3
+2013,Persons,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,Persons,K70,Alcoholic liver disease,0,0,0,0,0,0,0,3,5,12,21,31,27,19,12,12,0,1,0,0,143
+2013,Persons,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,2
+2013,Persons,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,Persons,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,Persons,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,Persons,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,2,2,0,6,6,2,2,4,0,1,0,0,0,0,25
+2013,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,Males,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,Males,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,0,0,2,5,9,6,2,4,0,1,0,0,0,29
+2013,Males,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,Males,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,Males,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,Males,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,3
+2013,Males,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,Males,K70,Alcoholic liver disease,0,0,0,0,0,0,0,3,4,8,15,20,20,12,8,9,0,1,0,0,100
+2013,Males,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,2
+2013,Males,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,Males,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,Males,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,Males,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,2,1,0,5,4,1,1,3,0,0,0,0,0,0,17
+2013,Males,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,Females,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,Females,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,0,0,0,4
+2013,Females,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,Females,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,Females,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,Females,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,Females,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,Females,K70,Alcoholic liver disease,0,0,0,0,0,0,0,0,1,4,6,11,7,7,4,3,0,0,0,0,43
+2013,Females,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,Females,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,Females,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,Females,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,Females,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,1,0,1,2,1,1,1,0,1,0,0,0,0,8
+2013,Females,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Persons,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Persons,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,0,4,4,9,3,11,11,5,4,1,1,0,0,53
+2012,Persons,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Persons,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Persons,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Persons,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,1,2,0,1,0,1,1,0,0,0,0,0,6
+2012,Persons,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,3
+2012,Persons,K70,Alcoholic liver disease,0,0,0,0,0,1,0,4,11,23,18,32,23,19,12,7,1,1,0,0,152
+2012,Persons,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Persons,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+2012,Persons,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Persons,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Persons,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,1,1,3,6,7,7,2,0,1,0,1,0,0,29
+2012,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Males,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Males,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,0,3,3,8,1,6,7,4,3,1,1,0,0,37
+2012,Males,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Males,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Males,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Males,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,2,0,1,0,1,1,0,0,0,0,0,5
+2012,Males,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,2
+2012,Males,K70,Alcoholic liver disease,0,0,0,0,0,1,0,1,9,14,9,22,12,14,8,6,1,1,0,0,98
+2012,Males,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Males,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+2012,Males,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Males,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Males,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,1,1,1,2,4,6,0,0,0,0,1,0,0,16
+2012,Males,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Females,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Females,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,0,1,1,1,2,5,4,1,1,0,0,0,0,16
+2012,Females,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Females,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Females,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Females,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+2012,Females,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+2012,Females,K70,Alcoholic liver disease,0,0,0,0,0,0,0,3,2,9,9,10,11,5,4,1,0,0,0,0,54
+2012,Females,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Females,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Females,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Females,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Females,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,2,4,3,1,2,0,1,0,0,0,0,13
+2012,Females,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,Persons,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,Persons,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,0,2,7,2,9,2,7,3,3,0,0,1,0,36
+2011,Persons,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2
+2011,Persons,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,Persons,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,Persons,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,1,0,0,4
+2011,Persons,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,Persons,K70,Alcoholic liver disease,0,0,0,0,0,0,0,2,6,27,19,35,21,21,11,8,5,0,1,0,156
+2011,Persons,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+2011,Persons,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+2011,Persons,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,Persons,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,Persons,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,4,4,3,4,3,5,2,0,2,0,0,0,0,27
+2011,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,Males,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,Males,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,0,1,5,2,7,2,5,2,1,0,0,1,0,26
+2011,Males,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2
+2011,Males,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,Males,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,Males,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,1,0,0,4
+2011,Males,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,Males,K70,Alcoholic liver disease,0,0,0,0,0,0,0,1,4,15,12,19,18,17,8,8,3,0,1,0,106
+2011,Males,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+2011,Males,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+2011,Males,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,Males,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,Males,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,4,3,2,3,3,3,1,0,1,0,0,0,0,20
+2011,Males,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,Females,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,Females,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,0,1,2,0,2,0,2,1,2,0,0,0,0,10
+2011,Females,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,Females,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,Females,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,Females,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,Females,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,Females,K70,Alcoholic liver disease,0,0,0,0,0,0,0,1,2,12,7,16,3,4,3,0,2,0,0,0,50
+2011,Females,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,Females,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,Females,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,Females,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,Females,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,1,1,1,0,2,1,0,1,0,0,0,0,7
+2011,Females,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Persons,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Persons,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,2,5,2,6,14,7,6,3,2,0,0,1,0,48
+2010,Persons,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Persons,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Persons,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Persons,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,4
+2010,Persons,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2
+2010,Persons,K70,Alcoholic liver disease,0,0,0,0,0,0,1,1,6,14,27,33,27,25,11,9,4,2,0,0,160
+2010,Persons,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Persons,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,2
+2010,Persons,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Persons,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Persons,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,4,4,1,5,10,8,5,3,4,0,0,0,0,0,44
+2010,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Males,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Males,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,1,4,1,6,11,5,4,3,2,0,0,1,0,38
+2010,Males,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Males,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Males,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Males,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,3
+2010,Males,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2
+2010,Males,K70,Alcoholic liver disease,0,0,0,0,0,0,1,1,3,6,14,22,20,16,8,6,3,0,0,0,100
+2010,Males,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Males,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,2
+2010,Males,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Males,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Males,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,4,2,1,4,7,7,2,1,2,0,0,0,0,0,30
+2010,Males,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Females,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Females,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,1,1,1,0,3,2,2,0,0,0,0,0,0,10
+2010,Females,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Females,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Females,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Females,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+2010,Females,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Females,K70,Alcoholic liver disease,0,0,0,0,0,0,0,0,3,8,13,11,7,9,3,3,1,2,0,0,60
+2010,Females,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Females,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Females,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Females,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Females,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,2,0,1,3,1,3,2,2,0,0,0,0,0,14
+2010,Females,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,Persons,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,Persons,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,1,0,2,7,4,7,8,4,3,2,0,0,1,0,39
+2009,Persons,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+2009,Persons,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,Persons,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,Persons,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,3
+2009,Persons,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+2009,Persons,K70,Alcoholic liver disease,0,0,0,0,0,0,1,3,10,15,36,36,23,25,15,6,2,2,0,0,174
+2009,Persons,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,Persons,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,4
+2009,Persons,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,Persons,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,Persons,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,1,0,1,7,2,5,7,2,1,0,0,0,0,0,26
+2009,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+2009,Males,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,Males,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,0,2,6,3,5,7,2,2,2,0,0,0,0,29
+2009,Males,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+2009,Males,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,Males,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,Males,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,3
+2009,Males,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+2009,Males,K70,Alcoholic liver disease,0,0,0,0,0,0,0,1,7,9,22,23,11,18,8,4,2,2,0,0,107
+2009,Males,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,Males,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,4
+2009,Males,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,Males,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,Males,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,1,0,1,6,1,3,5,2,1,0,0,0,0,0,20
+2009,Males,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,Females,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,Females,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,1,0,0,1,1,2,1,2,1,0,0,0,1,0,10
+2009,Females,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,Females,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,Females,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,Females,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,Females,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,Females,K70,Alcoholic liver disease,0,0,0,0,0,0,1,2,3,6,14,13,12,7,7,2,0,0,0,0,67
+2009,Females,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,Females,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,Females,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,Females,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,Females,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,1,1,2,2,0,0,0,0,0,0,0,6
+2009,Females,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+2008,Persons,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,Persons,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,0,3,5,7,7,5,11,3,2,1,1,1,0,46
+2008,Persons,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,Persons,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,Persons,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,Persons,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2
+2008,Persons,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+2008,Persons,K70,Alcoholic liver disease,0,0,0,0,0,0,0,2,5,11,35,34,24,23,17,9,4,0,0,0,164
+2008,Persons,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,Persons,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,4
+2008,Persons,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,Persons,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,Persons,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,1,3,4,5,3,6,2,2,0,0,0,0,0,0,26
+2008,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,Males,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,Males,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,0,3,3,7,2,3,9,1,2,1,1,0,0,32
+2008,Males,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,Males,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,Males,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,Males,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2
+2008,Males,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+2008,Males,K70,Alcoholic liver disease,0,0,0,0,0,0,0,1,5,8,22,23,15,13,14,6,4,0,0,0,111
+2008,Males,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,Males,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,3
+2008,Males,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,Males,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,Males,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,3,3,3,1,4,1,1,0,0,0,0,0,0,16
+2008,Males,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,Females,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,Females,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,0,0,2,0,5,2,2,2,0,0,0,1,0,14
+2008,Females,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,Females,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,Females,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,Females,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,Females,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,Females,K70,Alcoholic liver disease,0,0,0,0,0,0,0,1,0,3,13,11,9,10,3,3,0,0,0,0,53
+2008,Females,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,Females,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+2008,Females,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,Females,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,Females,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,1,0,1,2,2,2,1,1,0,0,0,0,0,0,10
+2008,Females,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,Persons,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,Persons,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,1,0,2,3,7,19,15,14,15,9,5,3,1,0,0,0,94
+2007,Persons,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,Persons,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,Persons,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,Persons,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+2007,Persons,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,Persons,K70,Alcoholic liver disease,0,0,0,0,0,0,1,2,11,22,26,21,17,14,12,5,5,1,1,0,138
+2007,Persons,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,Persons,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+2007,Persons,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,Persons,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,Persons,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2
+2007,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2007,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,Males,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,Males,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,1,0,1,1,5,12,9,9,10,4,5,2,1,0,0,0,60
+2007,Males,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,Males,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,Males,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,Males,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+2007,Males,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,Males,K70,Alcoholic liver disease,0,0,0,0,0,0,1,2,5,17,19,15,12,10,10,3,5,0,0,0,99
+2007,Males,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,Males,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+2007,Males,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,Males,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,Males,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2
+2007,Males,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2007,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,Females,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,Females,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,1,2,2,7,6,5,5,5,0,1,0,0,0,0,34
+2007,Females,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,Females,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,Females,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,Females,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,Females,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,Females,K70,Alcoholic liver disease,0,0,0,0,0,0,0,0,6,5,7,6,5,4,2,2,0,1,1,0,39
+2007,Females,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,Females,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,Females,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,Females,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,Females,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,Females,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,Persons,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,Persons,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,4,8,10,17,11,13,10,1,1,2,1,1,0,79
+2006,Persons,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,Persons,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,Persons,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,Persons,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2
+2006,Persons,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+2006,Persons,K70,Alcoholic liver disease,0,0,0,0,0,1,0,1,8,13,25,23,13,16,17,3,4,2,0,0,126
+2006,Persons,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,Persons,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2
+2006,Persons,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,Persons,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,Persons,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,Males,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,Males,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,4,7,8,11,9,9,7,1,1,2,0,0,0,59
+2006,Males,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,Males,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,Males,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,Males,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2
+2006,Males,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,Males,K70,Alcoholic liver disease,0,0,0,0,0,1,0,0,8,8,14,18,9,12,12,2,4,2,0,0,90
+2006,Males,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,Males,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2
+2006,Males,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,Males,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,Males,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,Males,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,Females,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,Females,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,0,1,2,6,2,4,3,0,0,0,1,1,0,20
+2006,Females,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,Females,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,Females,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,Females,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,Females,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+2006,Females,K70,Alcoholic liver disease,0,0,0,0,0,0,0,1,0,5,11,5,4,4,5,1,0,0,0,0,36
+2006,Females,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,Females,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,Females,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,Females,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,Females,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,Females,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,Persons,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,Persons,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,6,15,13,15,12,10,2,11,1,1,0,0,0,86
+2005,Persons,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,Persons,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,Persons,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,Persons,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,1,0,0,1,2,1,1,0,0,1,0,0,7
+2005,Persons,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,Persons,K70,Alcoholic liver disease,0,0,0,0,0,0,1,3,8,8,22,22,24,11,8,7,1,2,0,0,117
+2005,Persons,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,Persons,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,1,1,2,1,0,0,0,0,0,0,0,0,5
+2005,Persons,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,Persons,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,Persons,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2
+2005,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,Males,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,Males,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,6,13,7,12,10,6,0,7,1,1,0,0,0,63
+2005,Males,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,Males,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,Males,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,Males,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,1,0,0,1,2,1,1,0,0,1,0,0,7
+2005,Males,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,Males,K70,Alcoholic liver disease,0,0,0,0,0,0,1,3,3,5,18,15,14,10,4,5,0,1,0,0,79
+2005,Males,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,Males,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,0,0,4
+2005,Males,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,Males,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,Males,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,2
+2005,Males,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,Females,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,Females,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,0,2,6,3,2,4,2,4,0,0,0,0,0,23
+2005,Females,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,Females,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,Females,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,Females,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,Females,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,Females,K70,Alcoholic liver disease,0,0,0,0,0,0,0,0,5,3,4,7,10,1,4,2,1,1,0,0,38
+2005,Females,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,Females,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+2005,Females,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,Females,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,Females,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,Females,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,Persons,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,Persons,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,1,2,4,5,13,14,10,10,4,4,1,0,0,0,0,68
+2004,Persons,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2
+2004,Persons,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,Persons,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,Persons,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,3
+2004,Persons,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,Persons,K70,Alcoholic liver disease,0,0,0,0,0,0,2,1,10,21,12,24,23,14,11,3,4,1,0,0,126
+2004,Persons,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,Persons,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,5
+2004,Persons,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,Persons,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,Persons,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,Males,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,Males,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,1,2,4,5,8,12,4,6,4,2,0,0,0,0,0,48
+2004,Males,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2
+2004,Males,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,Males,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,Males,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,3
+2004,Males,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,Males,K70,Alcoholic liver disease,0,0,0,0,0,0,1,0,6,14,8,16,16,11,10,1,2,1,0,0,86
+2004,Males,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,Males,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,3
+2004,Males,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,Males,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,Males,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,Males,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,Females,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,Females,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,0,0,5,2,6,4,0,2,1,0,0,0,0,20
+2004,Females,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,Females,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,Females,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,Females,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,Females,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,Females,K70,Alcoholic liver disease,0,0,0,0,0,0,1,1,4,7,4,8,7,3,1,2,2,0,0,0,40
+2004,Females,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,Females,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,2
+2004,Females,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,Females,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,Females,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,Females,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,Persons,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,Persons,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,1,2,3,8,10,9,9,4,5,1,0,0,0,0,52
+2003,Persons,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2
+2003,Persons,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,Persons,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,Persons,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2
+2003,Persons,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+2003,Persons,K70,Alcoholic liver disease,0,0,0,0,0,0,0,4,8,9,16,18,16,16,14,6,4,0,0,0,111
+2003,Persons,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,Persons,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,2,2,1,0,1,0,0,0,0,0,6
+2003,Persons,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,Persons,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,Persons,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2003,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,Males,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,Males,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,0,1,3,7,7,4,1,5,1,0,0,0,0,29
+2003,Males,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2
+2003,Males,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,Males,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,Males,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+2003,Males,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+2003,Males,K70,Alcoholic liver disease,0,0,0,0,0,0,0,3,8,6,7,14,12,12,8,3,3,0,0,0,76
+2003,Males,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,Males,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,3
+2003,Males,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,Males,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,Males,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,Males,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,Females,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,Females,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,1,2,2,5,3,2,5,3,0,0,0,0,0,0,23
+2003,Females,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,Females,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,Females,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,Females,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+2003,Females,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,Females,K70,Alcoholic liver disease,0,0,0,0,0,0,0,1,0,3,9,4,4,4,6,3,1,0,0,0,35
+2003,Females,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,Females,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,3
+2003,Females,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,Females,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,Females,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2003,Females,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,Persons,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,Persons,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,2,5,16,16,9,13,7,2,1,2,1,0,0,74
+2002,Persons,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,Persons,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,Persons,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,Persons,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2002,Persons,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,Persons,K70,Alcoholic liver disease,0,0,0,0,0,0,1,1,8,19,12,16,15,14,13,7,4,0,1,1,112
+2002,Persons,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,Persons,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2
+2002,Persons,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,Persons,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,Persons,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,1,0,0,0,1,2,0,0,0,1,0,0,0,0,0,5
+2002,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,Males,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,Males,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,2,4,15,12,6,10,5,1,1,1,0,0,0,57
+2002,Males,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,Males,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,Males,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,Males,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+2002,Males,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,Males,K70,Alcoholic liver disease,0,0,0,0,0,0,1,1,7,12,9,12,12,10,5,3,3,0,1,1,77
+2002,Males,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,Males,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2
+2002,Males,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,Males,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,Males,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,4
+2002,Males,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,Females,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,Females,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,0,1,1,4,3,3,2,1,0,1,1,0,0,17
+2002,Females,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,Females,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,Females,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,Females,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,Females,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,Females,K70,Alcoholic liver disease,0,0,0,0,0,0,0,0,1,7,3,4,3,4,8,4,1,0,0,0,35
+2002,Females,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,Females,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,Females,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,Females,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,Females,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+2002,Females,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,Persons,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,Persons,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,7,6,11,11,14,10,6,5,3,2,0,0,0,75
+2001,Persons,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,Persons,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,Persons,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,Persons,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,Persons,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+2001,Persons,K70,Alcoholic liver disease,0,0,0,0,0,0,1,2,7,8,19,24,15,6,8,3,5,1,0,0,99
+2001,Persons,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,Persons,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+2001,Persons,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,Persons,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,Persons,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2
+2001,Persons,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,Persons,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,Males,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,Males,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,6,5,6,8,12,5,4,4,2,1,0,0,0,53
+2001,Males,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,Males,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,Males,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,Males,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,Males,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+2001,Males,K70,Alcoholic liver disease,0,0,0,0,0,0,0,1,5,3,11,17,9,4,7,1,2,1,0,0,61
+2001,Males,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,Males,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+2001,Males,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,Males,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,Males,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+2001,Males,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,Males,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,Females,E24.4,Alcohol-induced pseudo-Cushing's syndrome,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,Females,F10,Mental and behavioural disorders due to the use of alcohol,0,0,0,0,0,0,0,1,1,5,3,2,5,2,1,1,1,0,0,0,22
+2001,Females,G31.2,Degeneration of nervous system due to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,Females,G62.1,Alcoholic polyneuropathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,Females,G72.1,Alcoholic myopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,Females,I42.6,Alcoholic cardiomyopathy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,Females,K29.2,Alcoholic gastritis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,Females,K70,Alcoholic liver disease,0,0,0,0,0,0,1,1,2,5,8,7,6,2,1,2,3,0,0,0,38
+2001,Females,K85.2,Alcohol-induced acute pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,Females,K86.0,Alcohol-induced chronic pancreatitis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,Females,Q86.0,Fetal alcohol syndrome (dysmorphic),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,Females,R78.0,Excess alcohol blood levels,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,Females,X45,Accidental poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+2001,Females,X65,Intentional self-poisoning by and exposure to alcohol,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,Females,Y15,"Poisoning by and exposure to alcohol, undetermined intent",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
